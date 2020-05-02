@@ -29,7 +29,7 @@ Following publication of the [open letter](Joint%20Statement.pdf) on Wednesday 2
 # Developements Since Open Letter
 ## 2nd May 2020
 Those identified as media contatcs in the [open letter](Joint%20Statement.pdf) were invited to discuss the situation with the Minister for Innovation at the Department of Health and Social Care, [Lord James Betthell](https://en.wikipedia.org/wiki/James_Bethell,_5th_Baron_Bethell).
-The opening remarks given by those who attended (the media contacts) is [summarised in this note](Discussion%20of%20Privacy%20Risk%20In%20NHSX%20App.pdf).
+The opening remarks given by those who attended (the media contacts) is [summarised in this note](DIscussion%20of%20Privacy%20Risk%20In%20NHSX%20App.pdf).
 At the meeting the minister responded very positively and undertook to write a letter giving a number of assurances, including that the government would be as transparent as possible given teh constraints of having to develop this application "at speed".  We very much hope to be able to pass on that letter to the group who signed the [open letter](Joint%20Statement.pdf).
 
 # Links To Data Associated With The Decision Making Behind The UK App
