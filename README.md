@@ -3,7 +3,10 @@ This respoistory contains documents and other information related to the UK covi
 # Who Are We
 This respository was setup by a group of academics and researchers who have a particular interest in privacy and security, speciically as it applies to the contact tracing apps being proposed by various governments.  We hope the information collected here may also help inform the wider public so that they can make a reasoned judgement about the risks to their privacy posed by the UK app, and if that privacy risk is one worth taking for the public health benefits it delivers.
 
-Prompted by evience given in the [UK Parliament's Select Committee on Scinece and Technology](https://committees.parliament.uk/committee/135/science-and-technology-committee-commons/news/146111/committee-holds-evidence-session-on-the-easing-of-coronavirus-lockdown-measures/) a number of academics and researchers drafted and signed an [open letter](Joint%20Statement.pdf).  This respositiory is intended to capture what is learned as a result.
+Prompted by evience given in the [UK Parliament's Select Committee on Scinece and Technology](https://committees.parliament.uk/committee/135/science-and-technology-committee-commons/news/146111/committee-holds-evidence-session-on-the-easing-of-coronavirus-lockdown-measures/) a number of academics and researchers in the fields of privacy, security and cryptography drafted and signed an [open letter](Joint%20Statement.pdf).  The majority of the signatories are not epidemiologsts or public health epxerts.  However, it is important to continue to scrutinise the privacy and security aspect sof this app regardless of what the epidemiologosts and public health experts say is required.
+
+This respositiory is intended to capture what is learned as a result of the .
+
 # Press Following Open Letter
 Following publication of the [open letter](Joint%20Statement.pdf) on Wednesday 29th April 2020, the subject was covered in a number of media outlets.  A few examples are given below (apologies as some behind paywalls over which we have no control):
 1. [The Register](https://www.theregister.co.uk/2020/04/29/academics_open_letter_nhs_coronavirus_app/)
@@ -27,4 +30,9 @@ Following publication of the [open letter](Joint%20Statement.pdf) on Wednesday 2
 ## 2nd May 2020
 Those identified as media contatcs in the [open letter](Joint%20Statement.pdf) were invited to discuss the situation with the Minister for Innovation at the Department of Health and Social Care, [Lord James Betthell](https://en.wikipedia.org/wiki/James_Bethell,_5th_Baron_Bethell)
 The opening remarks given by those who attended (the media contacts) is [summarised in this note](Discussion%of%Privacy%Risk%In%NHSX%App.pdf).
-At the meeting the minister responded very positively and undertook to write a letter giving a number of assurances, including that the government would be as transparent as possible.
+At the meeting the minister responded very positively and undertook to write a letter giving a number of assurances, including that the government would be as transparent as possible given teh constraints of having to develop this application "at speed".  We very much hope to be able to pass on that letter to the group who signed the [open letter](Joint%20Statement.pdf).
+
+# Links To Data Associated With The Decision Making Behind The UK App
+1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
+1. [The Github Respository for the pricniple de-centralised application known as DP-3T](https://github.com/DP-3T) This includes [documentation](https://github.com/DP-3T/documents) covering the design and of implmenetation of their decentralised approach.
+1. [Interactive epidemiopogical models](https://ncase.me/covid-19/) one of the authors of which (Marcel Salathe) is a proponent of the decentralised model and member of the DP-3T team.
