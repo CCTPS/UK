@@ -25,5 +25,6 @@ Following publication of the [open letter](Joint%20Statement.pdf) on Wednesday 2
 1. [The World News](https://twnews.co.uk/gb-news/apple-and-google-begin-testing-app-that-warns-users-they-may-have-been-infected-with-coronavirus)
 # Developements Since Open Letter
 ## 2nd May 2020
-Those identified a media contatcs in the [open letter](Joint%20Statement.pdf) were invited to discuss the situation with the Minister for Innovation at the Department of Health and Social Care, [Lord James Betthell](https://en.wikipedia.org/wiki/James_Bethell,_5th_Baron_Bethell)
-The opening remarks given by those who attended (the media contacts) is [summarised in this note.](
+Those identified as media contatcs in the [open letter](Joint%20Statement.pdf) were invited to discuss the situation with the Minister for Innovation at the Department of Health and Social Care, [Lord James Betthell](https://en.wikipedia.org/wiki/James_Bethell,_5th_Baron_Bethell)
+The opening remarks given by those who attended (the media contacts) is [summarised in this note.](Discussion of Privacy Risk In NHSX App.pdf)
+At the meeting the minister responded very positively and undertook to write a letter giving a number of assurances, including that the government would be as transparent as possible.
