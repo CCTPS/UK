@@ -32,7 +32,8 @@ Those identified as media contatcs in the [open letter](Joint%20Statement.pdf) w
 The opening remarks given by those who attended (the media contacts) is [summarised in this note](DIscussion%20of%20Privacy%20Risk%20In%20NHSX%20App.pdf).
 At the meeting the minister responded very positively and undertook to write a letter giving a number of assurances, including that the government would be as transparent as possible given teh constraints of having to develop this application "at speed".  We very much hope to be able to pass on that letter to the group who signed the [open letter](Joint%20Statement.pdf).
 
-# Links To Data Associated With The Decision Making Behind The UK App
+# Links To Data Associated With Choices Behind Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
 1. [The Github Respository for the pricniple de-centralised application known as DP-3T](https://github.com/DP-3T) This includes [documentation](https://github.com/DP-3T/documents) covering the design and of implmenetation of their decentralised approach.
+1. [Exit Through The App Store](https://www.adalovelaceinstitute.org/wp-content/uploads/2020/04/Ada-Lovelace-Institute-Rapid-Evidence-Review-Exit-through-the-App-Store-April-2020-2.pdf) a report from the Ada Lovelace Institute on contatc tracing apps as a means of exiting a panademic lockdown.
 1. [Interactive epidemiopogical models](https://ncase.me/covid-19/) one of the authors of which (Marcel Salathe) is a proponent of the decentralised model and member of the DP-3T team.
