@@ -52,4 +52,4 @@ Links below.
 1. [COVID-19 Contact tracing: data protection expectations on app development](https://ico.org.uk/media/for-organisations/documents/2617676/ico-contact-tracing-recommendations.pdf) written statement sent to Human Rights Select Committee by the ICO
 1. [Human Rights Committee Evidence Session On Contact Tracing Apps](https://parliamentlive.tv/Event/Index/6f0f52cf-9fda-4785-bf63-af156d18b6c7) recording of oral evidence given by various witnesses answering questons from the Human Rights Select Committee 
 1. [NCSC Description of UK Contatc Tracing App](https://www.ncsc.gov.uk/news/ncsc-provide-expertise-nhs-covid-19-app) blog from NCSC describing their input to the UK contact tracing app
-1. [NCSC Privacy & Security Design: High Level Technical Documentation](https://www.ncsc.gov.uk/files/NHS-app-security-paper%20V0.1.pdf) an initial draft of teh high level technical detail behind the UK contact tracing app
+1. [NCSC Privacy & Security Design: High Level Technical Documentation](https://www.ncsc.gov.uk/files/NHS-app-security-paper%20V0.1.pdf) an initial draft of the high level technical detail behind the UK contact tracing app
