@@ -38,7 +38,7 @@ Following this session the UK tracing app was formally launched by NHSX at an ev
 Links below.
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
-1. [The Github Respository for the pricniple de-centralised application known as DP-3T](https://github.com/DP-3T) This includes [documentation](https://github.com/DP-3T/documents) covering the design and of implmenetation of their decentralised approach.
+1. [The Github Respository for the pricniple de-centralised application known as DP-3T](https://github.com/DP-3T) This includes [documentation](https://github.com/DP-3T/documents) covering the design and implmenetation of their decentralised approach.  There are also security analyses of the DP3T approach answering and responses to some earlier work identifying potential flaws in various contact tracing apps.
 1. [Apple and Google Contact Tracing API](https://www.apple.com/covid19/contacttracing) the collation of documentation for the Apple and Google initiative to produce an API that suports privacy preserving contact tracing.
 1. [ICO Response to Apple and Google API](https://ico.org.uk/media/about-the-ico/documents/2617653/apple-google-api-opinion-final-april-2020.pdf) assessment from the ICO on the contatc tracing API being issued by Apple and Google
 1. [Combatting COVID-19 through data: some considerations for privacy](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2020/04/combatting-covid-19-through-data-some-considerations-for-privacy/) blog from ICO about privacy in contact tracing apps
