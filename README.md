@@ -5,7 +5,7 @@ This repository was setup by a group of academics and researchers who have a par
 
 Prompted by evience given in the [UK Parliament's Select Committee on Scinece and Technology](https://committees.parliament.uk/committee/135/science-and-technology-committee-commons/news/146111/committee-holds-evidence-session-on-the-easing-of-coronavirus-lockdown-measures/) a number of academics and researchers in the fields of privacy, security and cryptography drafted and signed an [open letter](Joint%20Statement.pdf).  The majority of the signatories are not epidemiologsts or public health experts.  However, it is important to continue to scrutinise the privacy and security aspects of this app regardless of what the epidemiologosts and public health experts say is required.
 
-This respositiory is intended to capture what is learned following the letter.
+This repository is intended to capture what is learned following the letter.
 
 # Press Following Open Letter
 Following publication of the [open letter](Joint%20Statement.pdf) on Wednesday 29th April 2020, the subject was covered in a number of media outlets.  A few examples are given below (apologies as some behind paywalls over which we have no control):
