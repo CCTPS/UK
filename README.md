@@ -33,8 +33,11 @@ The opening remarks given by those who attended (the media contacts) is [summari
 At the meeting the minister responded very positively and undertook to write a letter giving a number of assurances, including that the government would be as transparent as possible given teh constraints of having to develop this application "at speed".  We very much hope to be able to pass on that letter to the group who signed the [open letter](Joint%20Statement.pdf).
 ## 4th May 2020
 There was an oral session at the Human Rights Select Committee that took evidence from witnesses with specific emphasis on privacy implications of the UK approach to the contact tracing app.
+
 In preparation for thie oral evidenmce the ICO issued a written statement on the subject.
+
 Following this session the UK tracing app was formally launched by NHSX at an event in No10, and simultaneously documentation was released by NCSC giving more technical details of the privacy and security design.
+
 Links below.
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
