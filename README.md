@@ -32,13 +32,12 @@ Those identified as media contatcs in the [open letter](Joint%20Statement.pdf) w
 The opening remarks given by those who attended (the media contacts) is [summarised in this note](DIscussion%20of%20Privacy%20Risk%20In%20NHSX%20App.pdf).
 At the meeting the minister responded very positively and undertook to write a letter giving a number of assurances, including that the government would be as transparent as possible given teh constraints of having to develop this application "at speed".  We very much hope to be able to pass on that letter to the group who signed the [open letter](Joint%20Statement.pdf).
 ## 4th May 2020
-There was an oral session at the Human Rights Select Committee that took evidence from witnesses with specific emphasis on privacy implications of the UK approach to the contact tracing app.
+There was an oral session at the Human Rights Select Committee that [took evidence from witnesses](https://parliamentlive.tv/Event/Index/6f0f52cf-9fda-4785-bf63-af156d18b6c7) with specific emphasis on privacy implications of the UK approach to the contact tracing app.
 
-In preparation for thie oral evidenmce the ICO issued a written statement on the subject.
+In preparation for thie oral evidenmce the ICO issued a [written statement](https://ico.org.uk/media/for-organisations/documents/2617676/ico-contact-tracing-recommendations.pdf) on the subject.
 
-Following this session the UK tracing app was formally launched by NHSX at an event in No10, and simultaneously documentation was released by NCSC giving more technical details of the privacy and security design.
+Following this session the UK tracing app was formally launched by NHSX at an event in No10, and simultaneously documentation was released by [NCSC giving more technical details of the privacy and security design](https://www.ncsc.gov.uk/files/NHS-app-security-paper%20V0.1.pdf).
 
-Links below.
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
 1. [The Github Respository for the pricniple de-centralised application known as DP-3T](https://github.com/DP-3T) This includes [documentation](https://github.com/DP-3T/documents) covering the design and implmenetation of their decentralised approach.  There are also security analyses of the DP3T approach answering and responses to some earlier work identifying potential flaws in various contact tracing apps.
