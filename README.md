@@ -40,6 +40,8 @@ Following this session the UK tracing app was formally launched by NHSX at an ev
 ## 7th May 2020
 As he promised on 2nd May 2020, the Minister for Innovation at the Department of Health and Social Care [wrote a letter](Letter%20on%20the%20NHSx%20App%20from%20PS(I)%20.pdf) setting out the current position on the NHSX contac tracing app.
 
+On the same day NHSX made public the [Github respository containing the source code of the beta version of their app](https://github.com/NHSX), along with a number of [technical documents](https://github.com/nhsx/COVID-19-app-Documentation-BETA).
+
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
 1. [The Github Respository for the pricniple de-centralised application known as DP-3T](https://github.com/DP-3T) This includes [documentation](https://github.com/DP-3T/documents) covering the design and implmenetation of their decentralised approach.  There are also security analyses of the DP3T approach answering and responses to some earlier work identifying potential flaws in various contact tracing apps.
