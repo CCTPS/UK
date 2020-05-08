@@ -61,6 +61,7 @@ On the same day NHSX made public the [Github respository containing the source c
 1. [NCSC Privacy & Security Design: High Level Technical Documentation](https://www.ncsc.gov.uk/files/NHS-app-security-paper%20V0.1.pdf) an initial draft of the high level technical detail behind the UK contact tracing app
 1. [Video Briefing From NHSX](https://www.dropbox.com/s/5iiwwf8mkql87mx/2020-05-04%20Video%20-%20The%20NHS%20app%20and%20how%20it%20can%20help.mp4?dl=0) a video briefing given to the press on how the NHSX app would work and why NHSX believe it is required.  [Audio available separately](https://www.dropbox.com/s/ryw709z2j5b3zov/2020-05-04%20Audio%20-%20The%20NHS%20app%20and%20how%20it%20can%20help.m4a?dl=0).
 1. [Pre-print discussing the contact tracing dilema](https://eprint.iacr.org/2020/531.pdf) includes some detailed analysis
+1. [Pre-pring Proposing Contact Tracing using Zero Knowlegde Prrof approach](https://eprint.iacr.org/2020/528.pdf)
 1. [BLE Contact Tracing Sniffer PoC](https://github.com/oseiskar/corona-sniffer) an open source PoC for sniffing BLE used in proposed biuetoith based contact tracers and tracking locations
 1. [Interoperability of Decentralised Proximity Tracing Systems Across Regions](https://drive.google.com/file/d/1mGfE7rMKNmc51TG4ceE9PHEggN8rHOXk/edit) a draft paper from several countries and the DP3T team on how their apps can interoperate.
 1. [NHSX Repository for Source Code and Documentation of their contact tracing app](https://github.com/nhsx)
