@@ -37,6 +37,8 @@ There was an oral session at the Human Rights Select Committee that [took eviden
 In preparation for thie oral evidenmce the ICO issued a [written statement](https://ico.org.uk/media/for-organisations/documents/2617676/ico-contact-tracing-recommendations.pdf) on the subject.
 
 Following this session the UK tracing app was formally launched by NHSX at an event in No10, and simultaneously documentation was released by [NCSC giving more technical details of the privacy and security design](https://www.ncsc.gov.uk/files/NHS-app-security-paper%20V0.1.pdf).
+## 7th May 2020
+As he promised on 2nd May 2020, the Minister for Innovation at the Department of Health and Social Care [wrote a letter]( setting out the current position on the NHSX contac tracing app.
 
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
