@@ -65,3 +65,4 @@ On the same day NHSX made public the [Github respository containing the source c
 1. [BLE Contact Tracing Sniffer PoC](https://github.com/oseiskar/corona-sniffer) an open source PoC for sniffing BLE used in proposed biuetoith based contact tracers and tracking locations
 1. [Interoperability of Decentralised Proximity Tracing Systems Across Regions](https://drive.google.com/file/d/1mGfE7rMKNmc51TG4ceE9PHEggN8rHOXk/edit) a draft paper from several countries and the DP3T team on how their apps can interoperate.
 1. [NHSX Repository for Source Code and Documentation of their contact tracing app](https://github.com/nhsx)
+1. [Data Protection Impact Assessment NHS COVID-19 App PILOT LIVE RELEASE Isle of Wight](https://faq.covid19.nhs.uk/DPIA%20COVID-19%20App%20PILOT%20LIVE%20RELEASE%20Isle%20of%20Wight%20Version%201.0.pdf)
