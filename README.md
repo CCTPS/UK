@@ -68,4 +68,4 @@ NHSx published its [Data Protection Impact Assessment (DPIA)](https://faq.covid1
 1. [Interoperability of Decentralised Proximity Tracing Systems Across Regions](https://drive.google.com/file/d/1mGfE7rMKNmc51TG4ceE9PHEggN8rHOXk/edit) a draft paper from several countries and the DP3T team on how their apps can interoperate.
 1. [NHSX Repository for Source Code and Documentation of their contact tracing app](https://github.com/nhsx)
 1. [Data Protection Impact Assessment NHS COVID-19 App PILOT LIVE RELEASE Isle of Wight](https://faq.covid19.nhs.uk/DPIA%20COVID-19%20App%20PILOT%20LIVE%20RELEASE%20Isle%20of%20Wight%20Version%201.0.pdf)
-1. [Analysis og NHSX DPIA](https://osf.io/preprints/lawarxiv/6fvgh) an analysis of the DPIA written by Michael Veale who is a member of the DP3T team
+1. [Analysis of the NHSX DPIA](https://osf.io/preprints/lawarxiv/6fvgh) a pre-print of an analysis of the DPIA written by Michael Veale who is a member of the DP3T team
