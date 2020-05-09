@@ -41,6 +41,8 @@ Following this session the UK tracing app was formally launched by NHSX at an ev
 As he promised on 2nd May 2020, the Minister for Innovation at the Department of Health and Social Care [wrote a letter](Letter%20on%20the%20NHSx%20App%20from%20PS(I)%20.pdf) setting out the current position on the NHSX contac tracing app.
 
 On the same day NHSX made public the [Github respository containing the source code of the beta version of their app](https://github.com/NHSX), along with a number of [technical documents](https://github.com/nhsx/COVID-19-app-Documentation-BETA).
+## 8th May 2020
+NHSx published its [Data Protection Impact Assessment (DPIA)](https://faq.covid19.nhs.uk/DPIA%20COVID-19%20App%20PILOT%20LIVE%20RELEASE%20Isle%20of%20Wight%20Version%201.0.pdf) for contact tracing app as used in the live Isle of Wight trials.
 
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
