@@ -43,6 +43,8 @@ As he promised on 2nd May 2020, the Minister for Innovation at the Department of
 On the same day NHSX made public the [Github respository containing the source code of the beta version of their app](https://github.com/NHSX), along with a number of [technical documents](https://github.com/nhsx/COVID-19-app-Documentation-BETA).
 ## 8th May 2020
 NHSx published its [Data Protection Impact Assessment (DPIA)](https://faq.covid19.nhs.uk/DPIA%20COVID-19%20App%20PILOT%20LIVE%20RELEASE%20Isle%20of%20Wight%20Version%201.0.pdf) for contact tracing app as used in the live Isle of Wight trials.
+## 13th May 2020
+NHSx today made public the original [letter from Prof Sir Jonathan Montgomery](https://nhsbsa-socialtracking.powerappsportals.com/EAB%20Letter%20to%20NHSx.pdf) (Chair of Ethics Committee for the app) plus the [government response](https://nhsbsa-socialtracking.powerappsportals.com/Response%20to%20the%20EAB%20Letter%20%28Ethics%20Statement%29.pdf).
 
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
