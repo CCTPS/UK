@@ -26,23 +26,30 @@ Following publication of the [open letter](Joint%20Statement.pdf) on Wednesday 2
 1. [Express and Star](https://www.expressandstar.com/news/uk-news/2020/04/29/experts-express-surveillance-concerns-over-coronavirus-contact-tracing-app/)
 1. [China Daily](https://global.chinadaily.com.cn/a/202004/30/WS5eaa29e4a310a8b241152d9b.html)
 1. [The World News](https://twnews.co.uk/gb-news/apple-and-google-begin-testing-app-that-warns-users-they-may-have-been-infected-with-coronavirus)
+1. [Channel 5 News (on Facebook)](https://www.facebook.com/watch/?v=566117481005574)
+1. [Anna Brees (on youtube, long interview with Mark Ryan)](https://www.youtube.com/watch?v=gkb-XRO1Y6k)
+1. [Huck Magazine (on youtube)](https://www.youtube.com/watch?v=4ISaPBN6fYM)
+1. [Stern (in German, paywall)](https://www.stern.de/p/plus/politik-wirtschaft/grossbritannien-testet-die-corona-app---und-datenschuetzer-sind-entsetzt-9255234.html)
+1. [Zeit Online (in German), "Appgebremst"](https://www.zeit.de/digital/2020-05/corona-app-nhs-grossbritannien-tracing-datenschutz-menschenrecht)
+1. [NOS Journaal (in Dutch)](https://nos.nl/collectie/13841/artikel/2334651-corona-app-is-succes-op-britse-eiland-wight-weinig-zorgen-om-privacy) [(video, 10:00 in)](https://nos.nl/uitzending/50054-nos-journaal.html)
+
 # Developments Since Open Letter
 ## 2nd May 2020
 Those identified as media contacts in the [open letter](Joint%20Statement.pdf) (Eerke Boiten, Mark Ryan and Alan Woodward) were invited to discuss the points raised in the letter with the Minister for Innovation at the Department of Health and Social Care, [Lord James Bethell](https://en.wikipedia.org/wiki/James_Bethell,_5th_Baron_Bethell).
 The opening remarks given by those who attended (the media contacts) is [summarised in this note](DIscussion%20of%20Privacy%20Risk%20In%20NHSX%20App.pdf).
-At the meeting the minister responded very positively and undertook to write a letter giving a number of assurances, including that the government would be as transparent as possible given the constraints of having to develop this application "at speed".  We very much hope to be able to pass on that letter to the group who signed the [open letter](Joint%20Statement.pdf).
+At the meeting the minister responded very positively and undertook to write a letter giving a number of assurances, including that the government would be as transparent as possible given the constraints of having to develop this application "at speed".  This letter appeared later, [here](Letter%20on%20the%20NHSx%20App%20from%20PS(I)%20.pdf).
 ## 4th May 2020
 There was an oral session at the Human Rights Select Committee that [took evidence from witnesses](https://parliamentlive.tv/Event/Index/6f0f52cf-9fda-4785-bf63-af156d18b6c7) with specific emphasis on privacy implications of the UK approach to the contact tracing app.
 
-In preparation for thie oral evidenmce the ICO issued a [written statement](https://ico.org.uk/media/for-organisations/documents/2617676/ico-contact-tracing-recommendations.pdf) on the subject.
+In preparation for thie oral evidence the ICO issued a [written statement](https://ico.org.uk/media/for-organisations/documents/2617676/ico-contact-tracing-recommendations.pdf) on the subject.
 
 Following this session the UK tracing app was formally launched by NHSX at an event in No10, and simultaneously documentation was released by [NCSC giving more technical details of the privacy and security design](https://www.ncsc.gov.uk/files/NHS-app-security-paper%20V0.1.pdf).
 ## 7th May 2020
-As he promised on 2nd May 2020, the Minister for Innovation at the Department of Health and Social Care [wrote a letter](Letter%20on%20the%20NHSx%20App%20from%20PS(I)%20.pdf) setting out the current position on the NHSX contac tracing app.
+As he promised on 2nd May 2020, the Minister for Innovation at the Department of Health and Social Care [wrote a letter](Letter%20on%20the%20NHSx%20App%20from%20PS(I)%20.pdf) setting out the current position on the NHSX contact tracing app.
 
 On the same day NHSX made public the [Github respository containing the source code of the beta version of their app](https://github.com/NHSX), along with a number of [technical documents](https://github.com/nhsx/COVID-19-app-Documentation-BETA).
 
-Also on this day the Chair of the Human Rights Committee [wrote](https://committees.parliament.uk/publications/1026/documents/8461/default/) to the Sedretary of State for Health & Social Care proposing legilsation whichn included protgections for data collected by the contact tracing app.
+Also on this day the Chair of the Human Rights Committee [wrote](https://committees.parliament.uk/publications/1026/documents/8461/default/) to the Sedretary of State for Health & Social Care proposing legilsation whichn included protections for data collected by the contact tracing app.
 ## 8th May 2020
 NHSx published its [Data Protection Impact Assessment (DPIA)](https://faq.covid19.nhs.uk/DPIA%20COVID-19%20App%20PILOT%20LIVE%20RELEASE%20Isle%20of%20Wight%20Version%201.0.pdf) for contact tracing app as used in the live Isle of Wight trials.
 ## 13th May 2020
@@ -74,13 +81,13 @@ The Secretary of State for Health & Social Care, Matt Hancock, has [written a se
 1. [Interoperability of Decentralised Proximity Tracing Systems Across Regions](https://drive.google.com/file/d/1mGfE7rMKNmc51TG4ceE9PHEggN8rHOXk/edit) a draft paper from several countries and the DP3T team on how their apps can interoperate.
 1. [NHSX Repository for Source Code and Documentation of their contact tracing app](https://github.com/nhsx)
 1. [Data Protection Impact Assessment NHS COVID-19 App PILOT LIVE RELEASE Isle of Wight](https://faq.covid19.nhs.uk/DPIA%20COVID-19%20App%20PILOT%20LIVE%20RELEASE%20Isle%20of%20Wight%20Version%201.0.pdf)
-1. [Analysis of the NHSX DPIA](https://osf.io/preprints/lawarxiv/6fvgh) a pre-print of an analysis of the DPIA written by Michael Veale who is a member of the DP3T team
-1. [Effectiveness of trace, test & isolate strategies](https://www.medrxiv.org/content/10.1101/2020.04.23.20077024v1.full.pdf) pre-print of modelling done by a significant group which indicates that contact tracing apps supress the spread only if it is part of a larger public health strategy including manual contact tracing.
-1. [Coronavirus Contact Tracing: Evaluating The Potential Of Using Bluetooth Received Signal Strength For Proximity Detection](https://www.scss.tcd.ie/Doug.Leith/pubs/bluetooth_rssi_study.pdf) a very recent study examininb how Bluettith needs to be used in contact tracers, specifically it concludes that oversampling is required.
+1. [Analysis of the NHSX DPIA](https://osf.io/preprints/lawarxiv/6fvgh) a pre-print of an analysis of the DPIA written by Michael Veale who is a member of the DP3T team.
+1. [Effectiveness of trace, test & isolate strategies](https://www.medrxiv.org/content/10.1101/2020.04.23.20077024v1.full.pdf) pre-print of modelling done by a significant group which indicates that contact tracing apps suppress the spread only if they are part of a larger public health strategy including manual contact tracing.
+1. [Coronavirus Contact Tracing: Evaluating The Potential Of Using Bluetooth Received Signal Strength For Proximity Detection](https://www.scss.tcd.ie/Doug.Leith/pubs/bluetooth_rssi_study.pdf) a very recent study examininb how Bluetooth needs to be used in contact tracers, specifically it concludes that oversampling is required.
 1. [German Contact Tracing App](https://github.com/corona-warn-app/cwa-documentation/blob/master/solution_architecture.md) technical documentation about the German contact tracing app.
 1. [Security Analysis of NHSX App](https://stateofit.com/UKContactTracing/) by Chris Culnane and Vanessa Teague, a security analysis, including code review, of the NHSX contact tracing app. it has initial responses from NCSC. It also contains non-technical commentary too.
 1. [NCSC Response to Security Analysis](https://www.ncsc.gov.uk/blog-post/nhs-covid-19-app-security-two-weeks-on) a blog from NCSC answering some of the points raised in the security analysis conducted by Chris Culnane and Vanessa Teague.
-1. [Secretary of State for Health letter to JHRC](https://committees.parliament.uk/publications/1223/documents/10345/default/) letter from the Secretary of State to the Human Rights Committee reiteratung his position that no further legislation is required, and declining the draft legislation offered by the committee.
-1. [A Coronavirus Contact Tracing App Replay Attack](https://down.dsg.cs.tcd.ie/tact/replay.pdf) a proposed attack on Bluetoith based contact tracers from team at Trinity, Dublin. Also provides estimates of how the possible amplification possible to cause cascading false alerts.
-1. [A Survey of attitudes to Covid19 contact tracing](https://github.com/carstenmaple/SpeakForYourself/blob/master/SpeakForYourselfv1.0.pdf) A survey conducted by Warwick and Birmingham on the UK population's attitude to contat tracing in the specific context of the Covid19 pandemic.
+1. [Secretary of State for Health letter to JHRC](https://committees.parliament.uk/publications/1223/documents/10345/default/) letter from the Secretary of State to the Human Rights Committee reiterating his position that no further legislation is required, and declining the draft legislation offered by the committee.
+1. [A Coronavirus Contact Tracing App Replay Attack](https://down.dsg.cs.tcd.ie/tact/replay.pdf) a proposed attack on Bluetooth based contact tracers from team at Trinity, Dublin. Also provides estimates of how the possible amplification possible to cause cascading false alerts.
+1. [A Survey of attitudes to Covid19 contact tracing](https://github.com/carstenmaple/SpeakForYourself/blob/master/SpeakForYourselfv1.0.pdf) A survey conducted by Warwick and Birmingham on the UK population's attitude to contact tracing in the specific context of the Covid19 pandemic.
 1. [A collection of research on contact tracing](https://docs.google.com/document/d/16Kh4_Q_tmyRh0-v452wiul9oQAiTRj8AdZ5vcOJum9Y/edit) a consolidated set of  research on privacy-preserving contact tracing and exposure notification for COVID-19.
