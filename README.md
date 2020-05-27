@@ -41,10 +41,14 @@ Following this session the UK tracing app was formally launched by NHSX at an ev
 As he promised on 2nd May 2020, the Minister for Innovation at the Department of Health and Social Care [wrote a letter](Letter%20on%20the%20NHSx%20App%20from%20PS(I)%20.pdf) setting out the current position on the NHSX contac tracing app.
 
 On the same day NHSX made public the [Github respository containing the source code of the beta version of their app](https://github.com/NHSX), along with a number of [technical documents](https://github.com/nhsx/COVID-19-app-Documentation-BETA).
+
+Also on this day the Chair of the Human Rights Committee [wrote](https://committees.parliament.uk/publications/1026/documents/8461/default/) to the Sedretary of State for Health & Social Care proposing legilsation whichn included protgections for data collected by the contact tracing app.
 ## 8th May 2020
 NHSx published its [Data Protection Impact Assessment (DPIA)](https://faq.covid19.nhs.uk/DPIA%20COVID-19%20App%20PILOT%20LIVE%20RELEASE%20Isle%20of%20Wight%20Version%201.0.pdf) for contact tracing app as used in the live Isle of Wight trials.
 ## 13th May 2020
 NHSx today made public the original [letter from Prof Sir Jonathan Montgomery](https://nhsbsa-socialtracking.powerappsportals.com/EAB%20Letter%20to%20NHSx.pdf) (Chair of Ethics Committee for the app) plus the [government response](https://nhsbsa-socialtracking.powerappsportals.com/Response%20to%20the%20EAB%20Letter%20%28Ethics%20Statement%29.pdf).
+## 21st May 2020
+The Secretary of State for Health & Social Care, Matt Hancock, has [written a second time to the Joint Human Rights Committee](https://committees.parliament.uk/publications/1223/documents/10345/default/) stating that the government do not believe further legilsation is required, specifically to protect data collected by the NHS contact tracing app. 
 
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
