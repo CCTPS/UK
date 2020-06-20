@@ -56,6 +56,8 @@ NHSx published its [Data Protection Impact Assessment (DPIA)](https://faq.covid1
 NHSx today made public the original [letter from Prof Sir Jonathan Montgomery](https://nhsbsa-socialtracking.powerappsportals.com/EAB%20Letter%20to%20NHSx.pdf) (Chair of Ethics Committee for the app) plus the [government response](https://nhsbsa-socialtracking.powerappsportals.com/Response%20to%20the%20EAB%20Letter%20%28Ethics%20Statement%29.pdf).
 ## 21st May 2020
 The Secretary of State for Health & Social Care, Matt Hancock, has [written a second time to the Joint Human Rights Committee](https://committees.parliament.uk/publications/1223/documents/10345/default/) stating that the government do not believe further legilsation is required, specifically to protect data collected by the NHS contact tracing app. 
+## 18th June 2020
+Secretary of State for Health and Social Care, Matt Hancock, announced that the NHS would no longer be persuing ots original technical approach, and would seek to swicth the the Google/Apple API designed to supoort using bluettith as a ackground task. the [story was documented by the BBC.](https://www.bbc.co.uk/news/technology-53095336)
 
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
