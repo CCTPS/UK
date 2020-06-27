@@ -58,6 +58,8 @@ NHSx today made public the original [letter from Prof Sir Jonathan Montgomery](h
 The Secretary of State for Health & Social Care, Matt Hancock, has [written a second time to the Joint Human Rights Committee](https://committees.parliament.uk/publications/1223/documents/10345/default/) stating that the government do not believe further legilsation is required, specifically to protect data collected by the NHS contact tracing app. 
 ## 18th June 2020
 Secretary of State for Health and Social Care, Matt Hancock, announced that the NHS would no longer be persuing its original technical approach, and would seek to swicth the the Google/Apple API designed to supoort using Bluetooth based apps as a background task. the [story was documented by the BBC.](https://www.bbc.co.uk/news/technology-53095336)
+## 26th June 2020
+The German ambassador to the UK announced on Twitter that the UK was working with Germany on a contact tracing app.
 
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
