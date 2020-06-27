@@ -95,4 +95,4 @@ Secretary of State for Health and Social Care, Matt Hancock, announced that the 
 1. [A collection of research on contact tracing](https://docs.google.com/document/d/16Kh4_Q_tmyRh0-v452wiul9oQAiTRj8AdZ5vcOJum9Y/edit) a consolidated set of  research on privacy-preserving contact tracing and exposure notification for COVID-19.
 1. [Measurement-Based Evaluation Of Google/Apple Exposure Notification API For Proximity Detection In A Commuter Bus](https://www.scss.tcd.ie/Doug.Leith/pubs/bus.pdf) a report of further work done by the team at Trinity College Dublin demonstrating the issues of using bluetooth as a basis for proximity detection.
 1. [Due diligence by TCD on Apple/Google API](https://www.scss.tcd.ie/Doug.Leith/pubs/gaen_verification.pdf) 
-1. [Evaluation By TCD of Apple/Google API in a,light train](https://www.scss.tcd.ie/Doug.Leith/pubs/luas.pdf)
+1. [Evaluation By TCD of Apple/Google API in a light train](https://www.scss.tcd.ie/Doug.Leith/pubs/luas.pdf)
