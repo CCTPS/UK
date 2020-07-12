@@ -99,3 +99,4 @@ The German ambassador to the UK announced on Twitter that the UK was working wit
 1. [Due diligence by TCD on Apple/Google API](https://www.scss.tcd.ie/Doug.Leith/pubs/gaen_verification.pdf) 
 1. [Evaluation By TCD of Apple/Google API in a light train](https://www.scss.tcd.ie/Doug.Leith/pubs/luas.pdf)
 1. [Inferring proximity from Bluetooth Low Energy RSSI with Unscented Kalman Smoothers](https://www.turing.ac.uk/sites/default/files/2020-07/Inferring_proximity_from_ble%20%286%29_0.pdf) an interesting use of Kalman filters to improve the accuracy of distance measurements using RSSI BLE data.
+1. [Version 1.5 Of The Google API](https://developers.google.com/android/exposure-notifications/exposure-notifications-api)
