@@ -98,3 +98,4 @@ The German ambassador to the UK announced on Twitter that the UK was working wit
 1. [Measurement-Based Evaluation Of Google/Apple Exposure Notification API For Proximity Detection In A Commuter Bus](https://www.scss.tcd.ie/Doug.Leith/pubs/bus.pdf) a report of further work done by the team at Trinity College Dublin demonstrating the issues of using bluetooth as a basis for proximity detection.
 1. [Due diligence by TCD on Apple/Google API](https://www.scss.tcd.ie/Doug.Leith/pubs/gaen_verification.pdf) 
 1. [Evaluation By TCD of Apple/Google API in a light train](https://www.scss.tcd.ie/Doug.Leith/pubs/luas.pdf)
+1. [Inferring proximity from Bluetooth Low Energy RSSI with Unscented Kalman Smoothers](https://www.turing.ac.uk/sites/default/files/2020-07/Inferring_proximity_from_ble%20%286%29_0.pdf) an interesting use of Kalman filters to improve the accuracy of distance measurements using RSSI BLE data.
