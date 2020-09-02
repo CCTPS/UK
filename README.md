@@ -60,6 +60,8 @@ The Secretary of State for Health & Social Care, Matt Hancock, has [written a se
 Secretary of State for Health and Social Care, Matt Hancock, announced that the NHS would no longer be persuing its original technical approach, and would seek to swicth the the Google/Apple API designed to supoort using Bluetooth based apps as a background task. the [story was documented by the BBC.](https://www.bbc.co.uk/news/technology-53095336)
 ## 26th June 2020
 The German ambassador to the UK announced on Twitter that the UK was working with Germany on a contact tracing app. ![](A4952413-7F06-4239-8F02-69F57B59D1A1.jpeg)
+## 1st Sept 2020
+Apple/Google have released an [updated version of their API.](https://developer.apple.com/documentation/exposurenotification/supporting_exposure_notifications_express) This enables what is called Express Exposure Notification which is achieved without the need for a national app.  However, users must select a region in which to operate and PHA for that area must have set up two servers which are verified by Apple/Google.  National PHA can also use this facility as infrastructure for their own app.  Importantly it is still Apple/Goohle who are effectively doing the signal processing of the BLE data and hence it is they who are determining what constitutes an "Exposure".
 
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
@@ -100,3 +102,4 @@ The German ambassador to the UK announced on Twitter that the UK was working wit
 1. [Evaluation By TCD of Apple/Google API in a light train](https://www.scss.tcd.ie/Doug.Leith/pubs/luas.pdf)
 1. [Inferring proximity from Bluetooth Low Energy RSSI with Unscented Kalman Smoothers](https://www.turing.ac.uk/sites/default/files/2020-07/Inferring_proximity_from_ble%20%286%29_0.pdf) an interesting use of Kalman filters to improve the accuracy of distance measurements using RSSI BLE data.
 1. [Version 1.5 Of The Google API](https://developers.google.com/android/exposure-notifications/exposure-notifications-api)
+1. [Update to Apple/Google API](https://developer.apple.com/documentation/exposurenotification/supporting_exposure_notifications_express) 
