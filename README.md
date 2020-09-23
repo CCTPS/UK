@@ -62,6 +62,8 @@ Secretary of State for Health and Social Care, Matt Hancock, announced that the 
 The German ambassador to the UK announced on Twitter that the UK was working with Germany on a contact tracing app. ![](A4952413-7F06-4239-8F02-69F57B59D1A1.jpeg)
 ## 1st Sept 2020
 Apple/Google have released an [updated version of their API.](https://developer.apple.com/documentation/exposurenotification/supporting_exposure_notifications_express) This enables what is called Express Exposure Notification which is achieved without the need for a national app.  However, users must select a region in which to operate and PHA for that area must have set up two servers which are verified by Apple/Google.  National PHA can also use this facility as infrastructure for their own app.  Importantly it is still Apple/Goohle who are effectively doing the signal processing of the BLE data and hence it is they who are determining what constitutes an "Exposure".
+## 23rd September 2020
+The NHSX app based upon the Google/Apple API is now in test with users on Isle of Wight and Newham in London. it will be released to the wider public on 24th September 2020. Code is available at this github: https://github.com/nhsx There is also a privacy statement at https://www.gov.uk/government/publications/nhs-covid-19-app-privacy-information, incouding the DPIA. The high level description and FAQs provided by the UK government is found here https://faq.covid19.nhs.uk/
 
 # Links Associated With Choices In Design Of Contact Tracing Apps
 1. [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
